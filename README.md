@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SvitlanaHu
+- 👋 Hi, I’m @SvitlanaHu.
 I am currently taking Full Stack development courses.
 My project experience includes team and individual projects where I have worked with technologies such as HTML5, CSS3, JavaScript, React and Node.js.
 In addition, I am familiar with Agile and Scrum methodologies.
